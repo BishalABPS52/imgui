@@ -201,7 +201,7 @@ Index of this file:
 
 #if !defined(IMGUI_DISABLE_DEMO_WINDOWS)
 
-// Forward Declarations
+// Forward Declarations of imgui
 struct ImGuiDemoWindowData;
 static void ShowExampleAppMainMenuBar();
 static void ShowExampleAppAssetsBrowser(bool* p_open);
